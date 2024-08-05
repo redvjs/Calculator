@@ -21,8 +21,8 @@ Features:
 
 Future Features:
 
-        - Creating graphs with matplotlib
-        - Further operations
+    - Creating graphs with matplotlib
+    - Further operations
 
   subtraction(x, y):
   
