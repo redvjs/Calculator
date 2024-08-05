@@ -8,16 +8,21 @@ Calculator Program:
 
 Features:
 
-    Addition
-    Subtraction
-    Multiplication
-    Division
-    Modulus
-    Power
-    Factorial
-    Functions
-    addition(x, y)
-    Returns the sum of x and y.
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+    - Modulus
+    - Power
+    - Factorial
+    - Functions
+    - addition(x, y)
+    - Returns the sum of x and y.
+
+Future Features:
+
+        - Creating graphs with matplotlib
+        - Further operations
 
   subtraction(x, y):
   
