@@ -1,6 +1,4 @@
 import math
-from matplotlib import pyplot as plt
-
 
 # Returns the addition of x, y      
 def addition(x, y):
@@ -57,12 +55,6 @@ def get_int():
         except ValueError:
             print("You must enter a numeric value")
             pass
-def graph(x_axis,y_axis):
-    plt.plot(x_axis,y_axis)
-    plt.title(input("Please enter a title for your graph: "))
-    plt.xlabel(input("Please enter a title for your x-axis"))
-    plt.ylabel(input("Please enter a title for your y-axis"))
-
 
 # Gets the mathematical operator from the user.
 def operation():
